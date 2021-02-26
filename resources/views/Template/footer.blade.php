@@ -1,0 +1,1 @@
+<strong class="float-center">Support By AdminLTE &copy; 2021 </strong>
